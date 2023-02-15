@@ -1,0 +1,10 @@
+wandb
+transformers
+tqdm
+torch-nightly --pre
+tiktoken
+pandas
+matplotlib
+ipykernel
+numpy
+pydantic
